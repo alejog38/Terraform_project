@@ -8,7 +8,6 @@ Project created to deploy an ecs cluster in AWS assumming that the VPC are alrea
 -   Proper Permissions for your user
 -   Terraform installed on your IDE
 -   AWS CLI installed and configured on your IDE
--   SSH Agent (For Windows PowerShell)
 
 
 ## AWS configuration settings CLI
